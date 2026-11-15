@@ -1,0 +1,5 @@
+# dsh-tts-voice —— bundle patch（不写 config，避免拿不到 schemastery 时激活失败）
+
+- insert:
+    - id: tts-voice
+      name: dsh-tts-voice
